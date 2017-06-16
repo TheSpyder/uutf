@@ -1,0 +1,12 @@
+{
+  "name": "uutf",
+  "version": "0.1.0",
+  "sources": [
+    "src"
+  ],
+  "bs-dependencies" : [
+    "uchar"
+  ],
+  "generate-merlin": false,
+  "package-specs": ["es6-global"]
+}
